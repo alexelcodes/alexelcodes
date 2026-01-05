@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" alt="CMake" title="CMake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xilinx/xilinx-original.svg" width="50" height="50" alt="Xilinx / VHDL" title="VHDL (Xilinx)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="Raspberry Pi" title="Raspberry Pi"/>
 
   <!-- Web -->
